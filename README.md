@@ -9,5 +9,5 @@ Sou novo aqui, por enquanto.
 ## Hello! My name is Juan! 😉
 I'm new here, for now.
 - I am a music-driven Information Technology student who is looking for experiences and to build solid projects that reflect my commitment to always seeking to develop myself.
-- ✏ I currently have knowledge of HTML, CSS, JavaScript and SQL. I'm starting to study Python to find myself in the Backend.
+- ✏ I currently have knowledge of HTML, CSS, JavaScript and SQL. I'm starting to study Python to explore the Backend.
 - 🖥 I'm looking for ways to develop myself to enter the job market in the area that I like so much.
