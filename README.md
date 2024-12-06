@@ -1,14 +1,7 @@
-## Olá! Me chamo Juan! 😉
-Sou novo aqui, por enquanto.
-- Sou um estudante de Tecnologia da Informação movido à música que está procurando experiências e construir projetos sólidos que reflitam meu empenho em sempre procurar me desenvolver.
-- ✏ Atualmente, tenho conhecimento sobre HTML, CSS, JavaScript e SQL. Estou começando a estudar Delphi and Python para me encontrar no Backend.
-- 🏗️ Postarei aqui alguns projetos e estudos em andamento.
-
-
-
-## Hello! My name is Juan! 😉
+## About Myself
+Hi! My name is Juan Lazzeri but you can call me Juj or Escobar.
 I'm new here, for now.
-- I am a music-driven Information Technology student who is looking for experiences and to build solid projects that reflect my commitment to always seeking to develop myself.
-- ✏ I currently have knowledge of HTML, CSS, JavaScript and SQL. I'm starting to study Delphi and Python to explore the Backend.
+I am a music-driven Information Technology student who is looking for experiences and to build solid projects that reflect my commitment to always seeking to develop myself.
+- ✏  I'm currently studying HTML, CSS, Javascript, PHP, SQL and Delphi while I'm studying systems analysis and development. Intend to deepen my knowledge of Full Stack, starting with Python and, probably, Machine Learning.
 - 🏗️ I will post here some ongoing projects and studies.
 
