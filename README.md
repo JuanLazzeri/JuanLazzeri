@@ -5,7 +5,7 @@
   - ✏  I'm currently studying HTML, CSS, Javascript, PHP, SQL and Delphi while I'm studying systems analysis and development. Intend to deepen my knowledge of Full Stack, starting with Python and, probably, Machine Learning.
   - 🏗️ I'll post here some ongoing projects and studies.
   ##
-  ### 🤖 Linguagens e Tecnologias
+  ### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -53,7 +53,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
 />
 <br/>
 <br/>
