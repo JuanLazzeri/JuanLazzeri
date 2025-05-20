@@ -49,12 +49,7 @@
 />
 <br/>
 <br/>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLazzeri&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanlazzeri&layout=compact&theme=tokyonight)
 <br/>
 <br/>
 <div> 
